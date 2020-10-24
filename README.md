@@ -70,6 +70,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md).
 
 - [HACK](/Hack)
 - [HASKELL](/Haskell)
+- [HTML](/HTML)
 
 ### I.
 
